@@ -1,10 +1,10 @@
 <?php
-  $emailTo = "contact@saurabhsharma.info";
-  $subject = "You have a new message from saurabhsharma.info";
-  $name = trim(stripslashes($_POST['name'])); 
-  $email = trim(stripslashes($_POST['email'])); 
-  $message = trim(stripslashes($_POST['message']));  
-  
+  $emailTo = "anshaj.khare2@gmail.com";
+  $subject = "You have a new message from anshaj.info";
+  $name = trim(stripslashes($_POST['name']));
+  $email = trim(stripslashes($_POST['email']));
+  $message = trim(stripslashes($_POST['message']));
+
   // prepare email body text
   $body = "";
   $body .= "Name: ";
