@@ -6,7 +6,7 @@ document.write('  <meta name="viewport" content="width=device-width, initial-sca
 document.write('  <meta name="description" content="Anshaj Khare | Data scientist, Programmer and Product Analyst">');
 document.write('  <meta name="author" content="EchoTheme">');
 document.write('  <!-- Favicon-->');
-document.write('  <link rel="icon" href="assets/img/facicon/114x114.png" type="image/gif">');
+document.write('  <link rel="icon" href="assets/img/facicon/favicon.ico" type="image/gif">');
 document.write('  ');
 document.write('  <!-- Title-->');
 document.write('  <title>Anshaj Khare | Data scientist, Programmer and Product Analyst</title>');
