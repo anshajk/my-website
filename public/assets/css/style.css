@@ -223,6 +223,10 @@ input, textarea {
 .color-social .fa-linkedin {
   background: #0177b5; }
 
+.color-social .fa-github {
+  background: #708090;
+  font-size: 15px;}
+
 .color-social .fa-dribbble {
   background: #ea4c89; }
 
